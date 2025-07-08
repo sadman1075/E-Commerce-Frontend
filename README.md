@@ -4,8 +4,8 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://your-deployment-link.vercel.app)  
-*(Replace this with your actual deployed link)*
+🔗 https://e-commerces-frontend.vercel.app
+
 
 ---
 
@@ -55,3 +55,26 @@
 - Simulates order placement (no backend required)
 
 ---
+
+## ⚙️ How to Run Locally
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Start the development server
+
+bash
+Copy
+Edit
+npm run dev
+Open in browser
+Navigate to http://localhost:5173
